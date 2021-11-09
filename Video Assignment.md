@@ -1,4 +1,4 @@
 # Video Assignment
 
-YouTube link to video assignment on topic **Data Flow Diagram(DFD)**:  
+YouTube link to the video assignment on the topic **Data Flow Diagram(DFD)**:  
 https://youtu.be/FaOHbW1qOik
