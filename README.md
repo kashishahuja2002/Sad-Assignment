@@ -4,7 +4,7 @@ This repository contains assignment for system analysis and design subject in 5t
 ## Video Assignment
 YouTube link to the video assignment on the topic **Data Flow Diagram (DFD)** is given in the [Video Assignment](./Video%20Assignment.md) file.
 
-## Open-Source Study
+## Open Source Study
 The software that I chose for open-source study is **Virtual Clinic**.    
 Virtual Clinic is a software to simplify the process of Health Care in hospitals to help the patients, doctor, labs, chemist.   
 The deployed version of software can be found here: [http://virtual-clinic.herokuapp.com/](http://virtual-clinic.herokuapp.com/)     
