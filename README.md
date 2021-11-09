@@ -2,7 +2,7 @@
 This repository contains assignment for system analysis and design subject in 5th semester of M.Tech(IT).
 
 ## Video Assignment
-YouTube link to the video assignment on the topic **Data Flow Diagram (DFD)** is given in the [Video Assignment](VideoAssignment.md) file.
+YouTube link to the video assignment on the topic **Data Flow Diagram (DFD)** is given in the [Video Assignment](./Video%20Assignment.md) file.
 
 ## Open-Source Study
 The software that I chose for open-source study is **Virtual Clinic**.    
